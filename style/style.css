@@ -4,7 +4,7 @@
 .azeret-mono-al {
   font-family: "Azeret Mono", monospace;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight:auto;
   font-style: normal;
 }
 
